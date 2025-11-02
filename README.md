@@ -49,9 +49,9 @@ These issues reduce operational efficiency and increase risk.
 - Centralize all incident declarations and tracking in one platform  
 - Provide **interactive dashboards** and **advanced statistics**  
 - Integrate a **geographical map** for visualizing affected facilities  
-- Assign incidents to the appropriate teams automatically  
+- Assign incidents to the appropriate teams  
 - Enable **real-time monitoring** of incident progress  
-- Generate **reliable reports** to support analysis and decision-making  
+- Provide **reliable reports** to support analysis and decision-making  
 
 ---
 
@@ -59,8 +59,8 @@ These issues reduce operational efficiency and increase risk.
 
 | Layer          | Technology Used              |
 |----------------|------------------------------|
-| Frontend       | Next.js                      |
-| Backend        | Spring Boot                  |
+| Backend        | Spring Boot                     |
+| Frontend       | Next Js                 |
 | Security       | Spring Security (JWT-based)  |
 | Database       | PostgreSQL                   |
 | Containerization| Docker                      |
