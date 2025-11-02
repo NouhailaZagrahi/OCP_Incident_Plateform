@@ -78,7 +78,7 @@ These issues reduce operational efficiency and increase risk.
 ![Map](./screens/dash2.png)
 
 ### Ticket Management  
-![Tickets](./screens/supervisionticket.png)
+![Tickets](./screens/supervision_ticket.png)
 ![Tickets](./screens/creation_ticket.png)
 
 ### User Management  
