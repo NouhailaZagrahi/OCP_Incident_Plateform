@@ -74,24 +74,25 @@ These issues reduce operational efficiency and increase risk.
 ![Dashboard](./screens/dash1.png)
 ![Dashboard](./screens/dash3.png)
 
-
 ### Incident Map  
 ![Map](./screens/dash2.png)
 
 ### Ticket Management  
 ![Tickets](./screens/supervisionticket.png)
+![Tickets](./screens/creation_ticket.png)
 
 ### User Management  
 ![Tickets](./screens/user.png)
+![Tickets](./screens/adduser2.png)
 
 ### Team Management  
 ![Tickets](./screens/equipe.png)
+![Tickets](./screens/addequipe.png)
 
 ---
 
 ## 🔮 Future Enhancements
 
-- Mobile app for Android & iOS  
 - Predictive analysis for recurring incidents  
 - AI-assisted root cause detection  
 - Notification system for real-time alerts  
