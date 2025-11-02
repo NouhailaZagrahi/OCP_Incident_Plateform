@@ -71,13 +71,21 @@ These issues reduce operational efficiency and increase risk.
 ## 📊 Example Screenshots
 
 ### Dashboard View  
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screens/dash1.png)
+![Dashboard](./screens/dash3.png)
 
-### Ticket Management  
-![Tickets](./screenshots/tickets.png)
 
 ### Incident Map  
-![Map](./screenshots/map.png)
+![Map](./screens/dash2.png)
+
+### Ticket Management  
+![Tickets](./screens/supervisionticket.png)
+
+### User Management  
+![Tickets](./screens/user.png)
+
+### Team Management  
+![Tickets](./screens/equipe.png)
 
 ---
 
